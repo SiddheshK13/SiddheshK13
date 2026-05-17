@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Building a robust Automation QA foundation while mastering Playwright and JavaScript.**
 
-- 🌱 I'm currently learning **JavaScript, Playwright, and advanced SQL for deep-tier database validation.**
+- 🌱 I'm currently learning **JavaScript, Playwright, and advanced MSSQL for deep-tier database validation.**
 
 - 💬 Ask me about **End-to-end testing, managing the defect lifecycle in Jira, and using DevTools for root-cause analysis.**
 
@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I’ve tracked over 80 production-grade defects across Web and Android platforms and I’m still hunting for more.**
 
-- 📄 Know about my experiences **[drive_link](https://drive.google.com/file/d/1GCB8vcFrGMnNmqdXuhm994jpbeX-Y2oB/view?usp=drive_link)**
+- 📄 Know about my experiences **[LINK](https://drive.google.com/file/d/1vFwnmfbeaYrQ7T6woAqQgQjhCqIFzz7b/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
