@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I’ve tracked over 80 production-grade defects across Web and Android platforms and I’m still hunting for more.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1T7QtOzdeSRFWQlmjQrPqzAwdCfzeF07P/view?usp=drive_link](https://drive.google.com/file/d/1T7QtOzdeSRFWQlmjQrPqzAwdCfzeF07P/view?usp=drive_link)**
+- 📄 Know about my experiences **[drive_link](https://drive.google.com/file/d/1GCB8vcFrGMnNmqdXuhm994jpbeX-Y2oB/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
