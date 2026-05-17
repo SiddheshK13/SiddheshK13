@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sbmk02@gmail.com**
 
-- ⚡ Fun fact **I’ve tracked over 80 production-grade defects across Web and Android platforms—and I’m still hunting for more.**
+- ⚡ Fun fact **I’ve tracked over 80 production-grade defects across Web and Android platforms and I’m still hunting for more.**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1T7QtOzdeSRFWQlmjQrPqzAwdCfzeF07P/view?usp=drive_link](https://drive.google.com/file/d/1T7QtOzdeSRFWQlmjQrPqzAwdCfzeF07P/view?usp=drive_link)**
 
