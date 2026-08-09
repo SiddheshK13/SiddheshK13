@@ -41,8 +41,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   </a>
-  <!-- Linux -->
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  </a>
 </p>
