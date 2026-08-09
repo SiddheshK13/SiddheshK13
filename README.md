@@ -12,8 +12,12 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://github.com/SiddheshK13" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SiddheshK13" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddhesh-khairnar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddhesh Khairnar LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/SiddheshK13" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SiddheshK13" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddhesh-khairnar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siddhesh Khairnar LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -22,12 +26,12 @@
 
 <p align="left">
   <!-- VS Code -->
-  <a href="visualstudio" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="MySQL" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="40" height="40"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="MySQL" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   </a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
