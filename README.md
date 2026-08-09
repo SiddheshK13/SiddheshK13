@@ -21,6 +21,10 @@
 ### Analytical Toolkit & Core Stack:
 
 <p align="left">
+  <!-- VS Code -->
+  <a href="visualstudio" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="MySQL" width="40" height="40"/>
+  </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="MySQL" width="40" height="40"/>
