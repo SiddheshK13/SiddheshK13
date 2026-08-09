@@ -6,7 +6,7 @@
 - 🌱 **Deepening Expertise:** Complex CTE performance tuning, window function optimization, and statistical modeling.
 - 💬 **Ask Me About:** Relational database querying, automated ETL pipelines, spatial mapping, and translating data into revenue/cost insights.
 - 📫 **How to Reach Me:** sbmk02@gmail.com
-- 📄 **Resume / Portfolio:** [View Experience](https://drive.google.com/file/d/1vFwnmfbeaYrQ7T6woAqQgQjhCqIFzz7b/view?usp=drive_link)
+- 📄 **Resume / Portfolio:** [View Experience](https://drive.google.com/drive/folders/1RiSVfkUWYFnw4BsGmVjO7-mXLz47Sxxq?usp=drive_link)
 
 ---
 
