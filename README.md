@@ -21,6 +21,10 @@
 ### Analytical Toolkit & Core Stack:
 
 <p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="MySQL" width="40" height="40"/>
+  </a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
@@ -31,7 +35,7 @@
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="40" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
